@@ -1,0 +1,11 @@
+#image{
+    max-width: 100%;
+}
+.container{
+    width: min(90%-120rem);
+    margin: 0 auto;
+}
+
+#title,#img-caption{
+    text-align: center;
+}
